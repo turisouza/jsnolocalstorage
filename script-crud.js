@@ -83,7 +83,7 @@ function criarElementoTarefa(tarefa) {
     }
 
     //Aqui colocamos o destino da Imagem do Botão
-    imgBotao.setAttribute("src", "/imagens/edit.png");
+    imgBotao.setAttribute("src", "./imagens/edit.png");
 
     //Agora vamos organizar os elementos
     //Começando incluindo a imagem do botão no botão
